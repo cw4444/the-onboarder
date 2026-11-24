@@ -19,16 +19,22 @@ out every shift.
 
 ## Workday
 
-Linden & Gray Facilities' HR system. Tap **Menu** to open the sidebar. Everything below is in there. **[CHECK:
-menu and app names]**
+Linden & Gray Facilities' HR system. Tap **Menu** to open the sidebar. Everything below is in there.
 
-- **Absence:** booking time off. Your request goes to Dean Okafor to approve. **[CHECK]**
+- **Time & Absence:** booking time off. Open it and pick the option you need. **Can't see the menu?** It does
+  happen. Type **manage absence** into the search bar instead.
 - **Your profile:** your employee number (you need this for the Timegate phone line, not the app) and personal information,
   including your National Insurance number.
 - **Pay → Payslips:** your payslips. No paper ones.
 - **Pay → Payment Elections:** your bank details.
 - **Learning:** your mandatory training. There's a lot. Start it in your first week.
 - **Cases:** only for sending your P45, through the link in `pay-and-clocking-in.md`.
+
+**Booking time off:**
+
+1. **Ask Dean Okafor first** whether you can take it. Dean knows if anyone else is off.
+2. Then request it in Workday, under **Menu → Time & Absence**.
+3. Your manager approves it once it's submitted.
 
 **Logging in for the first time:**
 
@@ -44,21 +50,31 @@ If you haven't had the email, or the password doesn't work, tell Dean Okafor.
 Your hours are in your **contract** and stay the same. Evenings are **4pm to 8pm, Monday to Friday.**
 
 What changes is **where** you work. Dean Okafor moves people between floors, and between buildings on the site,
-so everyone gets experience everywhere. That includes the building that runs **24 hours a day, 7 days a week.**
-**[CHECK: does that building have a name?]** Dean will tell you when you're moving.
+so everyone gets experience everywhere. Calder House is two buildings, Lotus and Yew, and Yew runs **24 hours a day, 7 days a week.** **[CHECK]** Dean
+will tell you when you're moving.
 
 ## Your pass
 
 - Your pass is issued by Linden & Gray Facilities. Dean Okafor gives it to you on your first shift. **[CHECK]**
-- It opens the goods entrance, the basement, and the floors you clean. It doesn't open floor 6.
+- You **swipe in** with it. It opens the goods entrance, the basement, and the floors you clean. It doesn't open
+  floor 6.
+- Until you've got it, text or ring Dean on the supervisor phone when you arrive, and Dean will collect you.
 - **Lost your pass?** Tell Dean Okafor the same shift.
 
 ## Keys
 
-The cleaning room and COSHH cupboard on each floor are locked. Dean Okafor gives you the keys for your floor at the
-start of the shift. Hand them back at the end. **[CHECK]**
+The cleaning room and COSHH cupboard on each floor are locked. The keys are **signed out with front desk security**
+at the start of the shift, and **signed back in** at the end. Every shift, no exceptions.
 
 ## Training-room booking screens
 
 There's a small screen outside each training room showing if it's booked. If it says **"In use"**, skip that room
 and come back later. Rooms are often booked into the evening.
+
+## Handy links
+
+- **P45:** https://lindengray.example.com/workday/p45-case (raise a case in Workday).
+- **No P45? The starter checklist:** https://www.gov.uk/guidance/starter-checklist-for-paye
+- **Workday:** https://lindengray.example.com/workday **[CHECK: fictional]**
+- **Timegate:** search "Timegate" in the App Store or Google Play.
+- **Right to work:** use the link in your **Yoti** email. It takes you to the Post Office ID app.

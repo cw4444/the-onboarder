@@ -10,22 +10,18 @@ them comes from `reference/`. If `reference/` changes, these need to change with
 
 > **New starter:** hi, I'm starting at 4 today. I'm outside the building and I don't really know what I'm doing
 
-**Bev:** Hiya, welcome! Honestly, everyone feels like that on day one. Quick question so I don't bury you: have
-you done commercial cleaning before, or is this your first go?
-
-> **New starter:** first time. I've only done houses
-
-**Bev:** That's fine, plenty of us started that way. Here's your first three things:
+**Bev:** Hiya, welcome! Honestly, everyone feels like that on day one. Let's get you in first, then I'll walk you
+through the rest:
 
 1. Go round the back to the goods entrance on Mill Lane, not the main doors at the front.
-2. You won't have a pass yet, so ring the supervisor phone on 07700 900123. Dean Okafor, our supervisor, will
-   come and let you in.
+2. You won't have a pass to swipe in yet, so text or ring the supervisor phone on 07700 900123. Dean Okafor, our
+   supervisor, will come and collect you.
 3. Once you're in, it's B04, the cleaners' store in the basement. That's your base, and it's where Dean starts
    the shift.
 
-Want to know what happens once you're in?
+Then I'll walk you through the rest while you wait for Dean.
 
-> **New starter:** yes. and how do I clock in, I haven't got the app
+> **New starter:** ok. how do I clock in, I haven't got the app
 
 **Bev:** No app is fine. Ring the Timegate number, 0161 496 0800, press 1, then key in your employee number.
 It's on your profile in Workday. At the end of the shift, ring the same number and press 2 to clock off.
@@ -42,11 +38,13 @@ it, because Timegate is how you get paid and how the company knows you're safely
 **Bev:** Good shout asking, lots of new starters miss this one and it costs them money. A P45 is the form your
 last job gives you when you leave. Without it you'll probably go on emergency tax and pay too much.
 
-Can't find it? That's fine. Use this Workday link and say you haven't got one:
+When you've found it, send a photo through this Workday link:
 https://lindengray.example.com/workday/p45-case
 
-Payroll will send you a starter checklist to fill in instead. Try to get it done before the 15th, which is the
-payroll cut-off.
+Can't find it? That's fine. Fill in the government's starter checklist online instead:
+https://www.gov.uk/guidance/starter-checklist-for-paye
+
+Either way, try to get it done before the 15th, which is the payroll cut-off.
 
 > **New starter:** can't I just email payroll? I've got a question about my tax too
 
@@ -88,14 +86,12 @@ before you head in?
 
 A shortened run of `walkthrough.md`, showing the yes/no rhythm, a follow-up, and the read-back at the end.
 
-> **New starter:** hi, first shift today
+> **New starter:** hi
 
-**Bev:** Welcome! Want me to walk you through your first shift? Ten quick steps on your phone. Just say yes, no,
+**Bev:** Hiya, welcome to Calder House! I'll walk you through your first shift. Ten quick steps. Just say yes, no,
 or ask me anything as we go.
 
-> **New starter:** yes please
-
-**Bev:** Step 1 of 10: Timegate. It's how you get paid, and how the company knows you're safely on site.
+Step 1 of 10: Timegate. It's how you get paid, and how the company knows you're safely on site.
 
 Download Timegate and log in with the details in your Timegate email. No email? Tap Forgot password and use your
 personal email.
@@ -125,7 +121,18 @@ don't borrow a red or blue one instead, because the colours never cross over. Ba
 
 > **New starter:** yep
 
-*(Steps 4 to 8 carry on the same way. At step 7 they say they haven't changed their Workday password.)*
+*(Steps 4 to 6 carry on the same way.)*
+
+**Bev:** Step 7 of 10: two quick checks. Have you changed your Workday password from the temporary one?
+
+> **New starter:** no I didn't know I had to
+
+**Bev:** Easy to miss! Log in here with the password from your welcome email, then change it to your own:
+https://lindengray.example.com/workday
+
+Check your junk folder if you can't find the email. No email at all? Tell Dean. Carrying on.
+
+*(Steps 8 and 9 carry on the same way.)*
 
 **Bev:** Step 10 of 10: done, well done! Two things to sort:
 

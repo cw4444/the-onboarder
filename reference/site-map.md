@@ -1,14 +1,21 @@
 # Site map
 
-Where things are in Calder House. Rooms are numbered by floor: B04 is in the basement, 3.12 is on floor 3.
+Where things are in Calder House, Blackthorne & Blackthorne's headquarters. It's two buildings, **Lotus** and
+**Yew**. This map is Lotus, where you'll start. **[CHECK]** Rooms are numbered by floor: B04 is in the basement,
+3.12 is on floor 3.
 
-There's a **"you are here" map in every room**, and a **list on each floor** of who's on it. If you're lost, look
+There's a **"you are here" map in every room**, and a **first aider notice on each floor**. If you're lost, look
 for the map on the wall.
 
 ## Getting in
 
-- **Staff entrance:** the goods entrance at the back, on Mill Lane. Your pass opens it once you've got it. On your first shift, ring the supervisor phone (07700 900123) and Dean Okafor will let you in.
-- **Don't use** the main doors at the front. They're for visitors and the client's staff.
+- **Staff entrance:** the goods entrance at the back, on Mill Lane. **[CHECK]** You swipe in with your pass.
+- **First shift, no pass yet:** text or ring Dean Okafor on the supervisor phone (07700 900123) when you arrive,
+  and Dean will come and collect you.
+- **Security desk:** at the front. You sign the cleaning cupboard keys out and back in there. You don't sign
+  yourself in: Timegate is your check-in.
+- **Don't use** the main doors at the front to come in. They're for visitors and Blackthorne & Blackthorne's
+  staff.
 
 ## Basement
 
@@ -22,7 +29,7 @@ for the map on the wall.
 
 ## Ground floor
 
-- Main reception and the **canteen**.
+- Main reception, the **security desk** and the **canteen**. **[CHECK]**
 - The **goods / service lift** goes from the canteen area down to the basement. Use it with your trolley. Don't take
   trolleys in the main lifts.
 - Toilets by the main lifts.
@@ -40,13 +47,13 @@ all off the main corridor by the lifts.
 
 ## Floor 6
 
-Directors' offices and the client's server room. **The cleaning team doesn't go on floor 6** unless Dean Okafor
+Directors' offices and Blackthorne & Blackthorne's server room. **The cleaning team doesn't go on floor 6** unless Dean Okafor
 says so.
 
-## Other buildings
+## Yew, the other building
 
-Linden & Gray Facilities cleans more than one building on this site, including one that runs 24 hours a day, 7
-days a week. Dean Okafor will tell you if you're moving, and show you round the first time.
+Linden & Gray Facilities cleans both buildings. **Yew** runs 24 hours a day, 7 days a week. **[CHECK: is Yew the
+24/7 one?]** Dean Okafor will tell you if you're moving, and show you round the first time.
 
 ## In an emergency
 

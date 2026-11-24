@@ -17,22 +17,23 @@ Friday.**
 ## First hour
 
 1. **Go to the goods entrance at the back of Calder House, on Mill Lane.** Not the main doors at the front.
-   You won't have a pass yet, so ring the supervisor phone (07700 900123) and Dean Okafor will let you in.
-   **[CHECK]**
+   **[CHECK]** You won't have a pass to swipe in yet, so **text or ring the supervisor phone (07700 900123)** when
+   you arrive, and Dean Okafor will come and collect you.
 2. **Find Dean Okafor in the cleaners' store, room B04 in the basement.** If Dean isn't there, wait in the store.
    Don't go looking round the building on your own.
 3. **Clock in on Timegate.** Dean will walk you through it the first time. How it works is in
    `pay-and-clocking-in.md`. If you can't clock in, Dean logs your start time by hand. Don't skip it either way.
-4. **Get your kit.** Your uniform, your pass, and your trolley. Dean shows you which trolley is yours.
+4. **Get your kit.** Your uniform, your pass, and your trolley. Dean shows you which trolley is yours, and how to
+   **sign out your floor's cleaning cupboard keys** with front desk security.
 5. **Safety walk-round with Dean.** Fire exits, the fire assembly point, the first aid box, the accident book,
-   the list of first aiders on each floor, and the COSHH cupboard in each floor's cleaning room. Ask if any get
+   the first aider notice on each floor (you won't know them yet, so if anyone's hurt, alert Dean first), and the COSHH cupboard in each floor's cleaning room. Ask if any get
    missed.
 
 ## Your first shift
 
-- **You shadow an experienced cleaner,** who shows you how it's done here. **[CHECK: for how many shifts?]**
-- **You'll also do some work on your own,** so the jobs get done. Dean Okafor decides who you shadow and which bits
-  you do alone. You won't have your own floor until Dean says so. If you're stuck, ask.
+- **You shadow Bev on your first two shifts.**
+- **You'll also do some work on your own,** so the jobs get done. Dean Okafor decides which bits you do alone. You
+  won't have your own floor until Dean says so. If you're stuck, ask.
 - **There's no set break.** Shifts are four hours, so breaks aren't required. If you need a few minutes, for a
   smoke or anything else, ask Dean.
 - **Never use a chemical you haven't been shown.** If a bottle has no label, don't use it. Tell Dean.
@@ -42,7 +43,8 @@ Friday.**
 
 ## Before you go home
 
-1. **Lock the chemicals away** in the COSHH cupboard on your floor, and put your trolley back in B04.
+1. **Lock the chemicals away** in the COSHH cupboard on your floor, put your trolley back in B04, and **sign the
+   keys back in** with front desk security.
 2. **Take the bins out, then lock up behind you.** When you come back in from the bins, check **both** the outside
    door and the adjoining door are firmly locked.
 3. **Clock out on Timegate.** Every shift, every day. It's how the company knows you've left safely, and how you

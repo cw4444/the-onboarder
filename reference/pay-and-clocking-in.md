@@ -59,9 +59,11 @@ to go on an emergency tax code and pay too much tax until it's sorted.
 Do these in your first week. Lots of people miss the first one, and it's the one that costs you money.
 
 1. **Send your P45.** Raise a case in Workday using this link:
-   **https://lindengray.example.com/workday/p45-case**. Upload a photo of your P45 and send it. No P45? Use the
-   same link and say so, and payroll will send you a starter checklist to fill in instead. This is the only time
-   you contact payroll directly.
+   **https://lindengray.example.com/workday/p45-case**. Upload a photo of your P45 and send it. This is the only time you
+   contact payroll directly.
+   **No P45?** Fill in the government's **starter checklist** online instead:
+   **https://www.gov.uk/guidance/starter-checklist-for-paye**. It gets you on the right tax code, so you don't end
+   up on emergency tax.
 2. **Change your Workday password.** The one in your welcome email is temporary. Change it to your own straight
    away.
 3. **Bank details.** Put them into Workday, under **Pay → Payment Elections**. Use an account in your own name.

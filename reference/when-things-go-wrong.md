@@ -14,10 +14,11 @@ danger, ring **999** first.
 - **You've mixed two chemicals by mistake,** or a bottle smells odd. Leave the room, shut the door, tell Dean.
 - **A needle or anything sharp** in a bin or a toilet. Don't touch it. Put a wet floor sign by it and tell Dean.
 - **Blood, sick or other body fluids.** Don't clean it up with your normal kit. Tell Dean.
-- **Someone makes you feel unsafe,** whether it's one of the client's staff, a visitor or anyone else.
+- **Someone makes you feel unsafe,** whether it's one of Blackthorne & Blackthorne's staff, a visitor or anyone else.
 - **Someone in the building who shouldn't be.** Don't confront them. Tell Dean.
 
-The site has trained first aiders. The list on each floor says who they are. Anything that happens to you at work
+The site has trained first aiders, and every floor has a notice saying who they are. You won't know them yet, so
+**always alert Dean first**. Anything that happens to you at work
 goes in the **accident book** in B04. Dean helps you fill it in.
 
 ## Fire alarm
@@ -39,7 +40,7 @@ goes in the **accident book** in B04. Dean helps you fill it in.
   especially anything electrical.
 - **A door that won't lock,** especially the outside door or the adjoining door by the bins: don't leave it. Tell
   Dean straight away.
-- **Something of the client's is broken** (you knocked a mug off a desk, say): it happens. Tell Dean the same
+- **Something of Blackthorne & Blackthorne's is broken** (you knocked a mug off a desk, say): it happens. Tell Dean the same
   shift. Honesty is always better than someone finding it in the morning.
 - **Found something valuable** (phone, wallet, keys): hand it to Dean.
 
@@ -53,7 +54,7 @@ These feel less urgent than an injury, but they can cost you money. See `pay-and
 ## Something's not right at work
 
 - **Any issue at all:** start with Dean Okafor, evening supervisor.
-- **A problem with Dean:** go to Marcus Bell, the client's facilities manager.
+- **A problem with Dean:** go to Marcus Bell, Blackthorne & Blackthorne's facilities manager.
 - **You don't want to talk to either of them:** go to Priya Shah, area manager.
 
 Contact details are in `whos-who.md`.

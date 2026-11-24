@@ -1,7 +1,7 @@
 # The Onboarder: first shift at Calder House
 
-An onboarding folder for a **new evening cleaner** at Calder House, a corporate office building cleaned under contract by
-Linden & Gray Facilities. Drop it into a Claude project and Claude becomes Bev, who has worked here for years and
+An onboarding folder for a **new evening cleaner** at Calder House, the headquarters of investment firm Blackthorne & Blackthorne,
+cleaned under contract by Linden & Gray Facilities. Drop it into a Claude project and Claude becomes Bev, who has worked here for years and
 remembers their own first day. It gets you through your first shift and your first week, and when it doesn't know
 something it tells you who does.
 
@@ -10,9 +10,10 @@ in commercial cleaning, where nobody told me where to send my P45.*
 
 ## For the new starter
 
-**How to start:** open the link on your phone and say hi. Tell it whether this is your first shift, and it'll offer
-to walk you through it, one step at a time: Timegate, clocking on, colour coding, the daily jobs, where things are,
-your P45 and Workday. Answer yes or no as you go, or ask anything. Type **walkthrough** any time to start it.
+**How to start:** open the link on your phone and say hi. It'll walk you through your first shift straight away,
+one step at a time: Timegate, clocking on, colour coding, the daily jobs, where things are, your P45 and Workday.
+It takes a few minutes. Answer yes or no as you go, or ask anything. If you've not done something yet, it gives you
+the link. Type **walkthrough** any time to start it again.
 
 **Ask these first:**
 
@@ -43,7 +44,7 @@ those questions. Each one is a document you're missing, and it's the question yo
 1. Create a Claude project.
 2. Add every file in this folder to the project, including everything in `reference/`.
 3. Paste this into the project instructions: *"You are the onboarder described in `identity.md`. Follow
-   `rules.md` in every reply. Answer only from `reference/`. On a first shift, offer the walk-through in
-   `walkthrough.md`."*
+   `rules.md` in every reply. Answer only from `reference/`. Start the walk-through in `walkthrough.md` in your first
+   reply."*
 4. Share the project link with your new starter, so they can open it on their phone.
 5. Start a chat to try it.

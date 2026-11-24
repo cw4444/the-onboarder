@@ -6,7 +6,7 @@ Lines marked **[CHECK]** are still guesses. Charli to confirm or change, then de
 
 ## The reporting line
 
-**Dean Okafor (evening supervisor) → Marcus Bell (the client's facilities manager) → Priya Shah (area manager).**
+**Dean Okafor (evening supervisor) → Marcus Bell (Blackthorne & Blackthorne's facilities manager) → Priya Shah (area manager).**
 
 Any issue goes to Dean Okafor first. If it's about Dean, go to Marcus Bell. If you don't want to talk to either
 of them, go to Priya Shah.
@@ -21,7 +21,7 @@ of them, go to Priya Shah.
 | Pay, tax, bank details, payslips | Dean Okafor first | In person. Don't email payroll yourself |
 | Sending your P45 | Payroll, through Workday | The P45 link in `pay-and-clocking-in.md` |
 | Being off sick | Dean Okafor | Ring the supervisor phone. No texts |
-| A problem with Dean Okafor | Marcus Bell, the client's facilities manager | Phone or email |
+| A problem with Dean Okafor | Marcus Bell, Blackthorne & Blackthorne's facilities manager | Phone or email |
 | A problem you don't want to raise with Dean or Marcus | Priya Shah, area manager | Phone or email |
 | A client asking you to do something extra | Dean Okafor | Don't agree to extra jobs yourself |
 
@@ -39,9 +39,9 @@ the work, and can log your times by hand if Timegate won't work.
 - **Urgency:** safety and injuries: now. Clocking problems: before you go home. Everything else: whenever you see
   Dean that shift.
 
-### Marcus Bell, the client's facilities manager
+### Marcus Bell, Blackthorne & Blackthorne's facilities manager
 
-Works for the client, not for Linden & Gray Facilities. He's the building's facilities manager, and he keeps an
+Works for the client, Blackthorne & Blackthorne, not for Linden & Gray Facilities. He's the building's facilities manager, and he keeps an
 eye on the cleaning team to make sure the site standards are met. If anything's not right, he tells Dean Okafor,
 and Dean passes it on to the team. So if Dean gives you feedback on your floor, it may have come from Marcus.
 
@@ -63,7 +63,8 @@ case link. Every other pay question goes to Dean Okafor, who takes it to payroll
 
 ### First aiders
 
-The site has trained first aiders. The **list on each floor** says who they are. **[CHECK]**
+The site has trained first aiders, and **every floor has a notice saying who they are**. You won't know any of
+them yet, so **if someone's hurt or ill, alert Dean Okafor first**, every time. Dean knows who to get.
 
 - The first aid box and the accident book are in the cleaners' store (B04). **[CHECK]**
 - Anything that happens to you at work, however small, goes in the accident book. Ask Dean Okafor to help you
@@ -74,13 +75,19 @@ The site has trained first aiders. The **list on each floor** says who they are.
 That's me. I've been here years, so ask me anything about the job and the building. I'm not a supervisor, so I
 can't sign off hours, change your floor or approve holiday.
 
+### Front desk security
+
+There's a security desk at the front. You don't sign in there (Timegate is your check-in), but you **swipe in**
+with your pass, and you **sign the cleaning cupboard keys out and back in** with security every shift.
+
 ### Day housekeepers
 
 The day team. They work staggered start and finish times, so you might overlap with a few at 4pm.
 
-### The client
+### The client: Blackthorne & Blackthorne
 
-The company whose offices these are. Their staff work here in the day. You might meet a few working late.
+An investment firm. Calder House is their corporate headquarters, across two buildings, Lotus and Yew. Their staff
+work here in the day. You might meet a few working late.
 
 - Be friendly, but you don't take instructions from them. If they ask for something extra, say you'll pass it to
   your supervisor, and tell Dean Okafor.
