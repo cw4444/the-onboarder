@@ -9,11 +9,13 @@ for the map on the wall.
 
 ## Getting in
 
-- **Staff entrance:** the goods entrance at the back, on Mill Lane. **[CHECK]** You swipe in with your pass.
+- **Staff entrance:** the goods entrance at the back, on Mill Lane. You swipe in with your pass.
 - **First shift, no pass yet:** text or ring Dean Okafor on the supervisor phone (07700 900123) when you arrive,
   and Dean will come and collect you.
 - **Security desk:** at the front. You sign the cleaning cupboard keys out and back in there. You don't sign
   yourself in: Timegate is your check-in.
+- **Parking:** on site, next to the building. Use any space that isn't marked **Reserved**. The electric vehicle
+  charging spaces are at the rear.
 - **Don't use** the main doors at the front to come in. They're for visitors and Blackthorne & Blackthorne's
   staff.
 
@@ -29,7 +31,7 @@ for the map on the wall.
 
 ## Ground floor
 
-- Main reception, the **security desk** and the **canteen**. **[CHECK]**
+- Main reception, the **security desk** and the **canteen**.
 - The **goods / service lift** goes from the canteen area down to the basement. Use it with your trolley. Don't take
   trolleys in the main lifts.
 - Toilets by the main lifts.

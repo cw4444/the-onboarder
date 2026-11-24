@@ -17,7 +17,7 @@ Friday.**
 ## First hour
 
 1. **Go to the goods entrance at the back of Calder House, on Mill Lane.** Not the main doors at the front.
-   **[CHECK]** You won't have a pass to swipe in yet, so **text or ring the supervisor phone (07700 900123)** when
+   You won't have a pass to swipe in yet, so **text or ring the supervisor phone (07700 900123)** when
    you arrive, and Dean Okafor will come and collect you.
 2. **Find Dean Okafor in the cleaners' store, room B04 in the basement.** If Dean isn't there, wait in the store.
    Don't go looking round the building on your own.

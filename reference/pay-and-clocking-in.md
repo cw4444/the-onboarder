@@ -44,6 +44,8 @@ Okafor straight away. Dean can check your details and log your times manually.
 - You're paid **monthly, on the last day of the month**, even though you're paid by the hour.
 - The **payroll cut-off is the 15th of the month.** Anything that affects your pay (your P45, bank details, missed
   clocking) needs to be sorted by then to make that month's pay.
+- **Started after the 15th?** Then your first pay comes at the end of the **next** month. That's the same for
+  everyone, hourly or salaried.
 - Your payslips are in **Workday**, under **Pay → Payslips**.
 
 ## What's a P45?

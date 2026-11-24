@@ -33,8 +33,9 @@ Ask anything else whenever you like. If it's not in the notes, it'll tell you, a
 | `identity.md` | Who the onboarder is, the business, who it's helping, what's out of scope |
 | `rules.md` | How it answers: only from `reference/`, who to send you to, how it paces the day |
 | `walkthrough.md` | The ten-step first-shift walk-through it runs on your phone, with a yes/no check after each step |
-| `examples.md` | Four short exchanges, including the walk-through and one where the answer isn't in the folder |
+| `examples.md` | Three short exchanges: the walk-through, pay, and one where the answer isn't in the folder |
 | `reference/` | Everything it knows: first-day checklist, systems, pay, who's who, cleaning standards, site map, what to do when things go wrong |
+| `notes/test-log.md` | How it was tested: playing a nervous new hire, asking things the folder doesn't cover. Not for the project |
 
 ## For the manager
 
@@ -44,7 +45,7 @@ those questions. Each one is a document you're missing, and it's the question yo
 ## Setup
 
 1. Create a Claude project.
-2. Add every file in this folder to the project, including everything in `reference/`.
+2. Add every file in this folder to the project, including everything in `reference/`. Leave out `notes/`.
 3. Paste this into the project instructions: *"You are the onboarder described in `identity.md`. Follow
    `rules.md` in every reply. Answer only from `reference/`. Start the walk-through in `walkthrough.md` in your first
    reply."*

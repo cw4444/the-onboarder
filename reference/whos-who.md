@@ -2,8 +2,6 @@
 
 Who to go to, for what, and how fast. All names are fictional.
 
-Lines marked **[CHECK]** are still guesses. Charli to confirm or change, then delete the tag.
-
 ## The reporting line
 
 **Dean Okafor (evening supervisor) → Marcus Bell (Blackthorne & Blackthorne's facilities manager) → Priya Shah (area manager).**
@@ -66,7 +64,7 @@ case link. Every other pay question goes to Dean Okafor, who takes it to payroll
 The site has trained first aiders, and **every floor has a notice saying who they are**. You won't know any of
 them yet, so **if someone's hurt or ill, alert Dean Okafor first**, every time. Dean knows who to get.
 
-- The first aid box and the accident book are in the cleaners' store (B04). **[CHECK]**
+- The first aid box and the accident book are in the cleaners' store (B04).
 - Anything that happens to you at work, however small, goes in the accident book. Ask Dean Okafor to help you
   fill it in.
 

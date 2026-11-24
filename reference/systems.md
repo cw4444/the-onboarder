@@ -2,8 +2,6 @@
 
 The apps you'll use, and your pass. The details of clocking in and pay are in `pay-and-clocking-in.md`.
 
-Lines marked **[CHECK]** are still guesses. Charli to confirm or change, then delete the tag.
-
 **If any of these isn't working, tell Dean Okafor.** Don't email Workday or Timegate yourself.
 
 ## Timegate
@@ -34,7 +32,7 @@ Linden & Gray Facilities' HR system. Tap **Menu** to open the sidebar. Everythin
 
 1. **Ask Dean Okafor first** whether you can take it. Dean knows if anyone else is off.
 2. Then request it in Workday, under **Menu → Time & Absence**.
-3. Your manager approves it once it's submitted.
+3. Dean Okafor approves it once it's submitted.
 
 **Logging in for the first time:**
 
@@ -55,7 +53,7 @@ will tell you when you're moving.
 
 ## Your pass
 
-- Your pass is issued by Linden & Gray Facilities. Dean Okafor gives it to you on your first shift. **[CHECK]**
+- Your pass is issued by Linden & Gray Facilities. Dean Okafor gives it to you on your first shift.
 - You **swipe in** with it. It opens the goods entrance, the basement, and the floors you clean. It doesn't open
   floor 6.
 - Until you've got it, text or ring Dean on the supervisor phone when you arrive, and Dean will collect you.
@@ -66,6 +64,10 @@ will tell you when you're moving.
 The cleaning room and COSHH cupboard on each floor are locked. The keys are **signed out with front desk security**
 at the start of the shift, and **signed back in** at the end. Every shift, no exceptions.
 
+## Wifi
+
+Contractors **don't get access** to Blackthorne & Blackthorne's wifi. That includes the cleaning team.
+
 ## Training-room booking screens
 
 There's a small screen outside each training room showing if it's booked. If it says **"In use"**, skip that room
@@ -75,6 +77,6 @@ and come back later. Rooms are often booked into the evening.
 
 - **P45:** https://lindengray.example.com/workday/p45-case (raise a case in Workday).
 - **No P45? The starter checklist:** https://www.gov.uk/guidance/starter-checklist-for-paye
-- **Workday:** https://lindengray.example.com/workday **[CHECK: fictional]**
+- **Workday:** https://lindengray.example.com/workday
 - **Timegate:** search "Timegate" in the App Store or Google Play.
 - **Right to work:** use the link in your **Yoti** email. It takes you to the Post Office ID app.
