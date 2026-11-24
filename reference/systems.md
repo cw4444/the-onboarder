@@ -50,7 +50,7 @@ If you haven't had the email, or the password doesn't work, tell Dean Okafor.
 Your hours are in your **contract** and stay the same. Evenings are **4pm to 8pm, Monday to Friday.**
 
 What changes is **where** you work. Dean Okafor moves people between floors, and between buildings on the site,
-so everyone gets experience everywhere. Calder House is two buildings, Lotus and Yew, and Yew runs **24 hours a day, 7 days a week.** **[CHECK]** Dean
+so everyone gets experience everywhere. Calder House is two buildings, Lotus and Yew, and Yew runs **24 hours a day, 7 days a week.** Dean
 will tell you when you're moving.
 
 ## Your pass

@@ -84,12 +84,17 @@ before you head in?
 
 ## 4. The walk-through, on their phone
 
-A shortened run of `walkthrough.md`, showing the yes/no rhythm, a follow-up, and the read-back at the end.
+A shortened run of `walkthrough.md`, showing the opening question, the yes/no rhythm, a follow-up, and the
+read-back at the end.
 
 > **New starter:** hi
 
 **Bev:** Hiya, welcome to Calder House! I'll walk you through your first shift. Ten quick steps. Just say yes, no,
-or ask me anything as we go.
+or ask me anything as we go. Quick one first: have you done commercial cleaning before?
+
+> **New starter:** no just houses
+
+**Bev:** That's fine, plenty of us started that way. I'll take the cleaning bits slowly.
 
 Step 1 of 10: Timegate. It's how you get paid, and how the company knows you're safely on site.
 

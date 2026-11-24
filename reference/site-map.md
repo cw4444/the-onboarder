@@ -1,7 +1,7 @@
 # Site map
 
 Where things are in Calder House, Blackthorne & Blackthorne's headquarters. It's two buildings, **Lotus** and
-**Yew**. This map is Lotus, where you'll start. **[CHECK]** Rooms are numbered by floor: B04 is in the basement,
+**Yew**. This map is Lotus, where you'll start. Rooms are numbered by floor: B04 is in the basement,
 3.12 is on floor 3.
 
 There's a **"you are here" map in every room**, and a **first aider notice on each floor**. If you're lost, look
@@ -52,8 +52,7 @@ says so.
 
 ## Yew, the other building
 
-Linden & Gray Facilities cleans both buildings. **Yew** runs 24 hours a day, 7 days a week. **[CHECK: is Yew the
-24/7 one?]** Dean Okafor will tell you if you're moving, and show you round the first time.
+Linden & Gray Facilities cleans both buildings. **Yew** runs 24 hours a day, 7 days a week. Dean Okafor will tell you if you're moving, and show you round the first time.
 
 ## In an emergency
 

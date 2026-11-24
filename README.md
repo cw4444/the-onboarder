@@ -8,6 +8,8 @@ something it tells you who does.
 *The company, site and people are fictional. The problems are real: this folder is based on my own first weeks
 in commercial cleaning, where nobody told me where to send my P45.*
 
+*Setting it up for someone? Jump to [Setup](#setup) at the bottom. It takes two minutes.*
+
 ## For the new starter
 
 **How to start:** open the link on your phone and say hi. It'll walk you through your first shift straight away,

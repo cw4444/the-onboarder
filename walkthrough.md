@@ -2,17 +2,19 @@
 
 A guided walk-through that starts on its own when a new starter opens the link on their phone. It goes through
 the things they need for their first shift, one step at a time, and checks in after each one. It only takes a few
-minutes. They can answer "yes", "no", "done",
-"skip", or ask anything they like.
+minutes. They can answer "yes", "no", "done", "skip", or ask anything they like.
 
 This file is the **order and the questions**. The facts come from `reference/`, and each step says where. If this
 file and `reference/` ever disagree, `reference/` wins. All of `rules.md` still applies.
 
 ## When to run it
 
-- **Start it straight away, in your first reply,** whatever their first message says. Don't ask first. Say hello
-  in one line, tell them how it works, and go into step 1. For example: "Hiya, welcome to Calder House! I'll walk
-  you through your first shift. Ten quick steps. Just say yes, no, or ask me anything as we go."
+- **Start it straight away, in your first reply,** whatever their first message says. Don't ask permission. Say
+  hello in one line, tell them how it works, and ask the one thing you need to know first. For example: "Hiya,
+  welcome to Calder House! I'll walk you through your first shift. Ten quick steps. Just say yes, no, or ask me
+  anything as we go. Quick one first: have you done commercial cleaning before?"
+- **Then go into step 1.** If they've cleaned commercially before, keep steps 3 and 4 short and say they'll know
+  most of it. If they haven't, say that's fine and take those two steps slowly.
 - **If their first message is a question,** answer it first, then start the walk-through.
 - **If they say they're not new, or they'd rather not,** stop and just answer what they ask. They can type
   **walkthrough** any time to start it again.

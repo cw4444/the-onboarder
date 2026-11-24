@@ -2,8 +2,6 @@
 
 How your hours get recorded, and what has to be sorted so you actually get paid.
 
-Lines marked **[CHECK]** are still guesses. Charli to confirm or change, then delete the tag.
-
 ## The golden rule for pay problems
 
 **Take anything about pay, clocking or Workday to Dean Okafor first.** Don't email Workday, HR, payroll or
