@@ -54,9 +54,10 @@ will tell you when you're moving.
 ## Your pass
 
 - Your pass is issued by Linden & Gray Facilities. Dean Okafor gives it to you on your first shift.
-- You **swipe in** with it. It opens the goods entrance, the basement, and the floors you clean. It doesn't open
+- You **swipe in** with it. It gets you in at reception, and opens the basement, and the floors you clean. It doesn't open
   floor 6.
-- Until you've got it, text or ring Dean on the supervisor phone when you arrive, and Dean will collect you.
+- Until you've got it, text or ring Dean on the supervisor phone when you arrive, and Dean will collect you from
+  reception.
 - **Lost your pass?** Tell Dean Okafor the same shift.
 
 ## Keys

@@ -18,11 +18,10 @@ Friday.**
 
 ## First hour
 
-1. **Go to the goods entrance at the back of Calder House, on Mill Lane.** Not the main doors at the front.
-   You won't have a pass to swipe in yet, so **text or ring the supervisor phone (07700 900123)** when
-   you arrive, and Dean Okafor will come and collect you.
-2. **Find Dean Okafor in the cleaners' store, room B04 in the basement.** If Dean isn't there, wait in the store.
-   Don't go looking round the building on your own.
+1. **Go to main reception at Calder House.** You won't have a pass to swipe in yet, so **text or ring the
+   supervisor phone (07700 900123)** when you arrive. Dean Okafor will come and collect you from reception.
+2. **Dean takes you down to the cleaners' store, room B04 in the basement.** That's your base. If you ever lose
+   Dean, wait in the store. Don't go looking round the building on your own.
 3. **Clock in on Timegate.** Dean will walk you through it the first time. How it works is in
    `pay-and-clocking-in.md`. If you can't clock in, Dean logs your start time by hand. Don't skip it either way.
 4. **Get your kit.** Your uniform, your pass, and your trolley. Dean shows you which trolley is yours, and how to

@@ -11,8 +11,8 @@ folder and run again.
 
 | They ask | Bev's answer comes from | Result |
 |---|---|---|
-| "hi" (before the start date) | `walkthrough.md` | ✅ Welcome, then step 1 of the pre-start walk-through |
-| "hi it's my first shift, how do I get in?" | `site-map.md`, `first-day-checklist.md` | ✅ Goods entrance, text or ring Dean to be collected, then asks if they've cleaned commercially before |
+| "hi, it's my first day" | `walkthrough.md`, `site-map.md` | ✅ Welcome, main reception and text or ring Dean to be collected, then the Timegate question |
+| "can I park outside?" as the very first message | `walkthrough.md`, `site-map.md` | ✅ Same welcome first, then the parking answer, then the next step |
 | "where do I park?" | `site-map.md` | ✅ On site next to the building, any space not marked Reserved |
 | "what's the wifi password?" | `systems.md` | ✅ Contractors don't get the company wifi. No password given or guessed |
 | "can I leave early if I finish?" | `systems.md` (hours set in contract), nothing else | ✅ Half answer: hours are 4 to 8 and in the contract, early finishes aren't in the notes, ask Dean |
@@ -32,7 +32,7 @@ folder and run again.
 
 | They ask | Bev's answer comes from | Result |
 |---|---|---|
-| "done this before, skip the basics" | `walkthrough.md` (On the day) | ✅ Goes quicker on the cleaning |
+| "done this before, skip the basics" | `walkthrough.md` | ✅ Goes quicker on the cleaning |
 | "what's the Timegate site ID?" | `pay-and-clocking-in.md` | ✅ Dean gives it on the first shift. No number made up |
 | "what's the security desk's number?" | nothing | ✅ Not in notes → Dean |
 | "can I use the car chargers?" | `site-map.md` (where they are only) | ✅ Half answer: they're at the rear, the notes don't say who can use them → Dean |
@@ -52,3 +52,7 @@ folder and run again.
 - **The walk-through was all on day one,** when starters are busiest. It now goes out a few days before the start
   date and covers the pre-start jobs (right to work, Workday, P45, Timegate, what to wear). Day one gets its own
   short section.
+- **In web Grok the walk-through never started,** because the tester opened with questions. Now every first reply
+  has the same shape, whatever they ask: welcome to your first day, how to get in, the answer, then the next step.
+  The opening is written into the README itself, so tools that only read the README still do it. Day one leads;
+  pre-start setup is only offered if they haven't started yet.

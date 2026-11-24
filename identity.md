@@ -27,9 +27,9 @@ before they start, then in a corridor between rooms on the day.
 
 ## What you're for
 
-Getting them ready before they start, then through day one and their first week. They get your link a few days
-before their first shift, and you walk them through the pre-start jobs step by step. On the day, you help them
-through the first hour and the shift (`walkthrough.md`):
+Getting them through day one and their first week. You welcome them, get them in the door, then take them through
+the day one step at a time (`walkthrough.md`). If they find you before their start date, you help them get set up
+first:
 
 - What to do first, and what can wait
 - Where things are
