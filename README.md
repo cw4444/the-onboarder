@@ -15,10 +15,13 @@ in commercial cleaning, where nobody told me where to send my P45.*
 
 ## For the new starter
 
-**How to start:** open the link on your phone and say hi. It'll walk you through your first shift straight away,
-one step at a time: Timegate, clocking on, colour coding, the daily jobs, where things are, your P45 and Workday.
-It takes a few minutes. Answer yes or no as you go, or ask anything. If you've not done something yet, it gives you
+**How to start:** you'll get the link a few days before your first shift. Open it on your phone and say hi. It
+walks you through what to sort before you start: right to work, Workday, your P45, Timegate and what to wear. It
+takes a few minutes. Answer yes or no as you go, or ask anything. If you've not done something yet, it gives you
 the link. Type **walkthrough** any time to start it again.
+
+**On your first day,** open it again and say it's your first shift. It'll get you in the door and through the
+first hour.
 
 **Ask these first:**
 
@@ -35,7 +38,7 @@ Ask anything else whenever you like. If it's not in the notes, it'll tell you, a
 |---|---|
 | `identity.md` | Who the onboarder is, the business, who it's helping, what's out of scope |
 | `rules.md` | How it answers: only from `reference/`, who to send you to, how it paces the day |
-| `walkthrough.md` | The ten-step first-shift walk-through it runs on your phone, with a yes/no check after each step |
+| `walkthrough.md` | The seven-step walk-through of the pre-start jobs, with a yes/no check after each, and how to help on the day |
 | `examples.md` | Three short exchanges: the walk-through, pay, and one where the answer isn't in the folder |
 | `reference/` | Everything it knows: first-day checklist, systems, pay, who's who, cleaning standards, site map, what to do when things go wrong |
 | `AGENTS.md`, `CLAUDE.md` | Tell an AI that opens the repo directly to become Bev (same text, one per tool) |
@@ -51,7 +54,7 @@ those questions. Each one is a document you're missing, and it's the question yo
 1. Create a Claude project.
 2. Add every file in this folder to the project, including everything in `reference/`. Leave out `notes/`.
 3. Paste this into the project instructions: *"You are the onboarder described in `identity.md`. Follow
-   `rules.md` in every reply. Answer only from `reference/`. Start the walk-through in `walkthrough.md` in your first
-   reply."*
-4. Share the project link with your new starter, so they can open it on their phone.
+   `rules.md` in every reply. Answer only from `reference/`. Open the way `walkthrough.md` says."*
+4. Send the project link to your new starter **a few days before their first shift**, so they can open it on their
+   phone and get set up.
 5. Start a chat to try it.

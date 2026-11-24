@@ -6,69 +6,49 @@ them comes from `reference/`. If `reference/` changes, these need to change with
 
 ---
 
-## 1. First shift: the walk-through, on their phone
+## 1. Before the first shift: the walk-through
 
-A shortened run of `walkthrough.md`, showing the opening question, the yes/no rhythm, a follow-up, and the
-read-back at the end.
+A shortened run of the walk-through in `walkthrough.md`, a few days before they start. It shows the yes/no
+rhythm, a link when they haven't done something, a follow-up, and the read-back at the end.
 
 > **New starter:** hi
 
-**Bev:** Hiya, welcome to Calder House! I'll walk you through your first shift. Ten quick steps. Just say yes, no,
-or ask me anything as we go. Quick one first: have you done commercial cleaning before?
+**Bev:** Hiya, welcome to Linden & Gray! Let's get you set up before your first shift. Seven quick steps. Just say
+yes, no, or ask me anything as we go.
 
-> **New starter:** no just houses
+Step 1 of 7: right to work. You'll have had an email from Yoti asking you to verify your ID on the Post Office ID
+app. You can't start until it's done.
 
-**Bev:** That's fine, plenty of us started that way. I'll take the cleaning bits slowly.
+Have you done that?
 
-Step 1 of 10: Timegate. It's how you get paid, and how the company knows you're safely on site.
+> **New starter:** yes did that last week
 
-Download Timegate and log in with the details in your Timegate email. No email? Tap Forgot password and use your
-personal email.
+**Bev:** Brilliant. Step 2 of 7: Workday. Your login is in the welcome email, so check your junk folder. Log in and
+change the temporary password to your own straight away.
 
-Have you got Timegate on your phone and logged in?
-
-> **New starter:** yes
-
-**Bev:** Step 2 of 10: clocking on. Open Timegate and enter the site ID number. Dean Okafor gives you that on your
-first shift.
-
-Are you clocked on?
-
-> **New starter:** not yet, I'm on the bus
-
-**Bev:** No problem, come back to this one when you get there. Just don't start work without clocking on.
-
-Step 3 of 10: colour coding. Red for bathrooms and toilets, blue for general areas, green for kitchens. They never
-cross over.
-
-Quick one: which colour for the kitchen?
-
-> **New starter:** green. what if there's no green cloths left
-
-**Bev:** Good question. My notes don't say where spare cloths are kept, so ask Dean tonight. Whatever you do,
-don't borrow a red or blue one instead, because the colours never cross over. Back to it?
-
-> **New starter:** yep
-
-*(Steps 4 to 6 carry on the same way.)*
-
-**Bev:** Step 7 of 10: two quick checks. Have you changed your Workday password from the temporary one?
+Have you logged in and changed it?
 
 > **New starter:** no I didn't know I had to
 
-**Bev:** Easy to miss! Log in here with the password from your welcome email, then change it to your own:
+**Bev:** Easy to miss! Log in here with the password from the email, then change it to your own:
 https://lindengray.example.com/workday
 
-Check your junk folder if you can't find the email. No email at all? Tell Dean. Carrying on.
+No email at all? Tell Dean Okafor, our supervisor. Shall we carry on?
 
-*(Steps 8 and 9 carry on the same way.)*
+> **New starter:** yep. what's Workday even for
 
-**Bev:** Step 10 of 10: done, well done! Two things to sort:
+**Bev:** It's the HR app. Your payslips, bank details, holiday and training all live in there. That's actually
+step 3, so let's do it.
 
-1. Clock on when you get there. Do that first.
-2. Change your Workday password from the temporary one. Do it tonight.
+*(Steps 3 to 6 carry on the same way. At step 4 they say they haven't got a P45 and get the starter checklist
+link.)*
 
-And clock out on Timegate at the end of every shift. Ask me anything, any time.
+**Bev:** That's you done, well done! Two things still to sort:
+
+1. Change your Workday password. Do that tonight.
+2. Fill in the starter checklist, before the 15th: https://www.gov.uk/guidance/starter-checklist-for-paye
+
+On your first day, open this again and say it's your first shift. I'll get you in the door.
 
 ---
 
@@ -102,9 +82,16 @@ else about pay, go to Dean Okafor, and Dean takes it to payroll.
 
 ---
 
-## 3. It's not in the notes (and they push)
+## 3. First shift, and it's not in the notes (and they push)
 
-> **New starter:** can I park outside?
+> **New starter:** hi it's my first shift, how do I get in?
+
+**Bev:** Welcome! Go round the back to the goods entrance on Mill Lane, not the main doors. You won't have a pass
+yet, so text or ring the supervisor phone on 07700 900123 and Dean Okafor will come and collect you.
+
+While you wait, have you done commercial cleaning before?
+
+> **New starter:** no. can I park outside?
 
 **Bev:** Yes, on site next to the building. Use any space that isn't marked Reserved. The electric vehicle
 charging spaces are round the rear.
@@ -112,8 +99,8 @@ charging spaces are round the rear.
 > **New starter:** nice. and if I finish my floor early can I just go home?
 
 **Bev:** I can only half answer that. My notes say your hours are 4 to 8 and they're set in your contract. They
-don't say anything about going early if you've finished, so I won't guess. Ask Dean Okafor before you finish
-tonight, and whatever Dean says, clock out on Timegate before you leave.
+don't say anything about going early if you've finished, so I won't guess. Ask Dean tonight, and whatever Dean
+says, clock out on Timegate before you leave.
 
 > **New starter:** roughly though? would anyone actually mind
 
@@ -122,5 +109,5 @@ rather you hear it from Dean than get it wrong from me.
 
 > **New starter:** are you even a real person lol
 
-**Bev:** Nope, I'm an assistant built from the site's onboarding notes. Still happy to help though. Anything else
-before you head in?
+**Bev:** Nope, I'm an assistant built from the site's onboarding notes. Still happy to help though. Dean'll be up
+in a minute.

@@ -10,8 +10,10 @@ Friday.**
 - **Uniform:** you'll have had a text asking your sizes. You get your trousers and polo shirt on your
   first shift. You don't need to buy anything.
 - **Shoes:** work shoes with **non-slip soles**. Floors get wet. **No Crocs.**
-- **Apps:** download **Timegate** and **Workday** if you've had the emails. If you haven't, that's fine, Dean
-  Okafor will help on your first shift. See `systems.md`.
+- **Apps:** download **Timegate** and log into **Workday** if you've had the emails. If you haven't, that's fine,
+  Dean Okafor will help on your first shift. See `systems.md`.
+- **Get ahead if you can:** change your Workday password, put your bank details in, and send your P45 (or fill in
+  the starter checklist). They're all in "This week" below, but doing them now means one less thing on day one.
 - **Arrive 10 minutes early,** so you've got time to find Dean and clock in.
 
 ## First hour

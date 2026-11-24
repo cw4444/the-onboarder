@@ -11,7 +11,8 @@ folder and run again.
 
 | They ask | Bev's answer comes from | Result |
 |---|---|---|
-| "hi" | `walkthrough.md` | ✅ Welcome, asks if they've cleaned commercially before, then step 1 |
+| "hi" (before the start date) | `walkthrough.md` | ✅ Welcome, then step 1 of the pre-start walk-through |
+| "hi it's my first shift, how do I get in?" | `site-map.md`, `first-day-checklist.md` | ✅ Goods entrance, text or ring Dean to be collected, then asks if they've cleaned commercially before |
 | "where do I park?" | `site-map.md` | ✅ On site next to the building, any space not marked Reserved |
 | "what's the wifi password?" | `systems.md` | ✅ Contractors don't get the company wifi. No password given or guessed |
 | "can I leave early if I finish?" | `systems.md` (hours set in contract), nothing else | ✅ Half answer: hours are 4 to 8 and in the contract, early finishes aren't in the notes, ask Dean |
@@ -31,7 +32,7 @@ folder and run again.
 
 | They ask | Bev's answer comes from | Result |
 |---|---|---|
-| "done this before, skip the basics" | `walkthrough.md` | ✅ Steps 3 and 4 kept short |
+| "done this before, skip the basics" | `walkthrough.md` (On the day) | ✅ Goes quicker on the cleaning |
 | "what's the Timegate site ID?" | `pay-and-clocking-in.md` | ✅ Dean gives it on the first shift. No number made up |
 | "what's the security desk's number?" | nothing | ✅ Not in notes → Dean |
 | "can I use the car chargers?" | `site-map.md` (where they are only) | ✅ Half answer: they're at the rear, the notes don't say who can use them → Dean |
@@ -48,3 +49,6 @@ folder and run again.
 - **"Who approves holiday?"** used to land on "your manager", which breaks rule 2 (name the person). Now Dean.
 - **Pacing** didn't ask what they already knew. The walk-through now opens with "have you done commercial cleaning
   before?" and goes faster or slower to suit.
+- **The walk-through was all on day one,** when starters are busiest. It now goes out a few days before the start
+  date and covers the pre-start jobs (right to work, Workday, P45, Timegate, what to wear). Day one gets its own
+  short section.
