@@ -1,7 +1,7 @@
-# The Onboarder: first shift at {{SITE}}
+# The Onboarder: first shift at Calder House
 
-An onboarding folder for a **new evening cleaner** at {{SITE}}, a corporate office building cleaned under contract by
-{{COMPANY}}. Drop it into a Claude project and Claude becomes {{ONBOARDER_NAME}}, who has worked here for years and
+An onboarding folder for a **new evening cleaner** at Calder House, a corporate office building cleaned under contract by
+Linden & Gray Facilities. Drop it into a Claude project and Claude becomes Bev, who has worked here for years and
 remembers their own first day. It gets you through your first shift and your first week, and when it doesn't know
 something it tells you who does.
 
