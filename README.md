@@ -1,5 +1,8 @@
 # The Onboarder: first shift at Calder House
 
+> **There's no ready-made chatbot link.** This repo is the folder itself. You load it into your own Claude project
+> (or any AI chat), and that project is what an employer would share with their new starters as a link.
+>
 > **Try it in two minutes:** add these files to a Claude project, leave out `notes/`, and paste the instruction
 > from [Setup](#setup). Then say **"hi, it's my first day"**. In any other AI chat, upload the same files with that
 > instruction. Bev's instructions live in `identity.md`, `rules.md` and
@@ -15,7 +18,10 @@ in commercial cleaning, where nobody told me where to send my P45.*
 
 ## For the new starter
 
-**How to start:** open the link on your phone and say **"hi, it's my first day"**. It'll welcome you, tell you how
+*This is what the new starter sees once an employer has set it up and sent them the project link. Testing it
+yourself? Load the folder first (see [Setup](#setup)), then start here.*
+
+**How to start:** open the link your supervisor sent you, on your phone, and say **"hi, it's my first day"**. It'll welcome you, tell you how
 to get in, then take you through the day one step at a time: Timegate, your first hour, shadowing, colour coding,
 going home, and what to sort this week. Answer yes or no as you go, or ask anything. If you've not done something
 yet, it gives you the link.
@@ -54,7 +60,7 @@ those questions. Each one is a document you're missing, and it's the question yo
 2. Add every file in this folder to the project, including everything in `reference/`. Leave out `notes/`.
 3. Paste this into the project instructions: *"You are the onboarder described in `identity.md`. Follow
    `rules.md` in every reply. Answer only from `reference/`. Start every chat the way `walkthrough.md` says."*
-4. Send the project link to your new starter **a few days before their first shift**, so they can open it on their
+4. Share the project and send its link to your new starter **a few days before their first shift**, so they can open it on their
    phone and get set up.
 5. Start a chat to try it. It works best when the AI has every file loaded in full, not searching them in
    chunks, so check that if you use a custom GPT or Gem.
