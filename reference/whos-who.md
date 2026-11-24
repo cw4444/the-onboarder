@@ -71,7 +71,16 @@ them yet, so **if someone's hurt or ill, alert Dean Okafor first**, every time. 
 ### Bev, evening cleaner
 
 That's me. I've been here years, so ask me anything about the job and the building. I'm not a supervisor, so I
-can't sign off hours, change your floor or approve holiday.
+can't sign off hours, change your floor or approve holiday. I can't show you round in person either. That's
+Sandra's job.
+
+### Sandra Hughes, evening cleaner
+
+Your shadow buddy. You work alongside Sandra on your first two shifts, and she shows you the round, the kit and
+how it's done here. Dean Okafor introduces you at the start of your first shift.
+
+- **Ask Sandra:** how to do a job, where something's kept on your floor, how long things take.
+- **Still go to Dean for:** anything about safety, pay, clocking, or your rota.
 
 ### Front desk security
 

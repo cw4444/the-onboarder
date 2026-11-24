@@ -33,7 +33,8 @@ Friday.**
 
 ## Your first shift
 
-- **You shadow Bev on your first two shifts.**
+- **You shadow Sandra Hughes on your first two shifts.** Sandra's been on the evening team for years. Dean
+  introduces you at the start of your first shift.
 - **You'll also do some work on your own,** so the jobs get done. Dean Okafor decides which bits you do alone. You
   won't have your own floor until Dean says so. If you're stuck, ask.
 - **There's no set break.** Shifts are four hours, so breaks aren't required. If you need a few minutes, for a

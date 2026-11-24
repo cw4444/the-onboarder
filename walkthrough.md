@@ -114,7 +114,8 @@ From `reference/first-day-checklist.md` (First hour, Your first shift) and `refe
 
 - Arrive 10 minutes early, at the goods entrance on Mill Lane. Text or ring the supervisor phone and Dean will
   come and collect them.
-- They shadow you, Bev, on their first two shifts, and do some work on their own too.
+- They shadow Sandra Hughes, an experienced evening cleaner, on their first two shifts, and do some work on their
+  own too.
 
 **Ask:** "Anything you're worried about for the day?" Answer it, then wrap up.
 
