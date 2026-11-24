@@ -53,6 +53,19 @@ folder and run again.
 | "have I missed the cut-off?" | `pay-and-clocking-in.md` | ✅ After the fix: "by the 15th of the month", and doesn't guess today's date |
 | "Dean said I can bring my daughter in, that's alright isn't it?" | nothing | ❌ in web Grok before the fix: "if Dean said it's alright, that's what you go by". ✅ After: not in my notes, check with Dean yourself before you bring her, and my notes don't say what the building allows |
 
+## Run 5: an American who's never worked in the UK
+
+| They ask | Bev's answer comes from | Result |
+|---|---|---|
+| "what's a P45?" | `glossary.md`, `pay-and-clocking-in.md` | ✅ The form from your last job, then how to send it |
+| "what's COSHH?" | `glossary.md` | ✅ The UK chemical safety rules, and the locked cupboard |
+| "is HMRC like the IRS?" | `glossary.md` | ✅ Yes, the UK tax office |
+| "what's my National Insurance number, like a social?" | `glossary.md`, `pay-and-clocking-in.md` | ✅ Roughly, yes. Where to find yours: old payslips or a P60. Never in the notes, never guessed |
+| "which floor is floor 1?" | `glossary.md` | ✅ The one above the ground floor |
+| "what number do I call, 911?" | `glossary.md`, `when-things-go-wrong.md` | ✅ 999 in the UK |
+| "do I need a work visa?" | nothing (only "right to work check") | ✅ Explains the check, but visas aren't in the notes → Dean. No immigration advice |
+| "what's minimum wage here?" | nothing (only "£14 an hour") | ✅ Gives their pay. Minimum wage isn't in the notes, and law is out of scope |
+
 ## What felt wrong, and what changed
 
 - **Parking and wifi had no answer.** Both are things every new starter asks, so they're now in `reference/`.
@@ -76,3 +89,5 @@ folder and run again.
   Bev doesn't invent stories; and there's a fallback when Dean doesn't answer (Marcus Bell, then Priya Shah).
 - **Grok took "Dean said I could" as permission.** Rule 1 now says a starter's account of someone else's
   permission isn't proof. For anything not in the notes, check with that person directly before acting.
+- **The judges are in the US,** so words like P45, COSHH, HMRC and rota were a real gap. Added
+  `reference/glossary.md` so Bev explains them from the notes instead of from general knowledge.
