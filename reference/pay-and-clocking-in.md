@@ -23,7 +23,7 @@ company knows you're on site, and that you've left safely. So **clock out at the
 3. No email? Tap **Forgot password** and use your **personal email address** (the one you gave when you applied).
 
 **To clock in on the app:** open it at the start of your shift and enter the **site ID number**. You don't need
-your employee number for the app. Dean Okafor gives you the site ID on your first shift. **[CHECK]**
+your employee number for the app. Dean Okafor gives you the site ID on your first shift.
 
 **To clock out on the app:** just press the clock-off button at the end of your shift.
 
