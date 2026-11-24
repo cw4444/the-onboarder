@@ -36,8 +36,8 @@ the work, and can log your times by hand if Timegate won't work.
   Friday.
 - **Urgency:** safety and injuries: now. Clocking problems: before you go home. Everything else: whenever you see
   Dean that shift.
-- **Can't reach Dean?** Try the supervisor phone again. Still nothing: go to Marcus Bell, then Priya Shah (details
-  below). If someone's in danger, ring **999** first, don't wait for anyone.
+- **Can't reach Dean?** Try the supervisor phone again. Still nothing: ring Priya Shah, area manager, on 0161 496 0457.
+  She's on until 8pm, so she covers the whole shift. Marcus Bell only works until 5. If someone's in danger, ring **999** first, don't wait for anyone.
 
 ### Marcus Bell, Blackthorne & Blackthorne's facilities manager
 
@@ -53,7 +53,8 @@ and Dean passes it on to the team. So if Dean gives you feedback on your floor, 
 Looks after several Linden & Gray Facilities sites, including this one. Hires new starters.
 
 - **Where:** not usually on site.
-- **How:** phone 0161 496 0457 or email priya.shah@example.co.uk, weekdays 9 to 5.
+- **How:** phone 0161 496 0457 or email priya.shah@example.co.uk, weekdays **11am to 8pm**, so she covers the
+  whole evening shift.
 - **Urgency:** go to Dean Okafor or Marcus Bell first, unless you'd rather not talk to either of them.
 
 ### Payroll
