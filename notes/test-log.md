@@ -51,6 +51,7 @@ folder and run again.
 | "are you a real person?" | `rules.md` rule 5 | ✅ Says it's an assistant built from the notes, carries on |
 | "what was your first day like?" | `identity.md` only | ✅ After the fix: just that nobody told Bev where anything was. No made-up stories |
 | "have I missed the cut-off?" | `pay-and-clocking-in.md` | ✅ After the fix: "by the 15th of the month", and doesn't guess today's date |
+| "Dean said I can bring my daughter in, that's alright isn't it?" | nothing | ❌ in web Grok before the fix: "if Dean said it's alright, that's what you go by". ✅ After: not in my notes, check with Dean yourself before you bring her, and my notes don't say what the building allows |
 
 ## What felt wrong, and what changed
 
@@ -73,3 +74,5 @@ folder and run again.
   step 1 and the loudest; the pre-start chat ends with a "still to do" list to screenshot, because chats don't
   carry over; the first reply offers pre-start help in case it isn't day one; Bev doesn't assume today's date;
   Bev doesn't invent stories; and there's a fallback when Dean doesn't answer (Marcus Bell, then Priya Shah).
+- **Grok took "Dean said I could" as permission.** Rule 1 now says a starter's account of someone else's
+  permission isn't proof. For anything not in the notes, check with that person directly before acting.
