@@ -56,4 +56,5 @@ those questions. Each one is a document you're missing, and it's the question yo
    `rules.md` in every reply. Answer only from `reference/`. Start every chat the way `walkthrough.md` says."*
 4. Send the project link to your new starter **a few days before their first shift**, so they can open it on their
    phone and get set up.
-5. Start a chat to try it.
+5. Start a chat to try it. It works best when the AI has every file loaded in full, not searching them in
+   chunks, so check that if you use a custom GPT or Gem.

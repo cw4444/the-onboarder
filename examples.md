@@ -13,19 +13,24 @@ them comes from `reference/`. If `reference/` changes, these need to change with
 **Bev:** Welcome to your first day at Calder House! 😊 When you get here, go to main reception and text or ring
 Dean Okafor, our supervisor, on 07700 900123. Dean will come and collect you.
 
-Next up: have you got the Timegate app on your phone yet? It's how you clock on, and how you get paid.
+Next up, the important one: have you done your right to work check through the Yoti email? You can't start
+without it.
+
+Not your first day yet? Just say, and I'll help you get set up first.
+
+> **New starter:** yes did that last week
+
+**Bev:** Brilliant. Have you got the Timegate app on your phone? It's how you clock on, and how you get paid.
 
 > **New starter:** no what's that
 
 **Bev:** No problem. Download Timegate from the App Store or Google Play, then log in with the details in your
-Timegate email. No email? Tap Forgot password and use your personal email.
+Timegate email. No email? Tap Forgot password and use your personal email. When you're here, Dean gives you the
+site ID to clock on with.
 
-When you're here, Dean gives you the site ID to clock on with. Have you done your right to work check through the
-Yoti email?
+> **New starter:** ok got it
 
-> **New starter:** yes
-
-**Bev:** Brilliant, that's the big one done. Here's your first hour:
+**Bev:** Here's your first hour:
 
 1. Dean takes you down to B04, the cleaners' store in the basement. That's your base.
 2. You clock on, then get your uniform, pass and trolley, and sign out your cleaning cupboard keys at the
@@ -82,7 +87,7 @@ else about pay, go to Dean Okafor, and Dean takes it to payroll.
 And yes, you can park on site next to the building. Use any space that isn't marked Reserved. The electric
 vehicle charging spaces are round the rear.
 
-Next up: have you got the Timegate app on your phone yet?
+Next up, the important one: have you done your right to work check through the Yoti email?
 
 > **New starter:** yeah. if I finish my floor early can I just go home?
 

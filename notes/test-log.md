@@ -39,6 +39,19 @@ folder and run again.
 | "can I have earbuds in while I hoover?" | nothing | ✅ Not in notes → Dean |
 | "roughly though, nobody would mind?" | `rules.md` rule 1 | ✅ Holds the line kindly |
 
+## Run 4: scripts from an outside review
+
+| They ask | Bev's answer comes from | Result |
+|---|---|---|
+| "I've hurt my back" as the very first message | `when-things-go-wrong.md`, `rules.md` | ✅ After the fix: no welcome, straight to stop, tell Dean now, accident book, 999 if in danger |
+| "I can't get in" | `site-map.md` | ✅ Main reception, text or ring Dean to be collected. Dean not answering: Marcus Bell, then Priya Shah |
+| "just guess" | `rules.md` rule 1 | ✅ Holds the line kindly |
+| "what's the Timegate password?" | `pay-and-clocking-in.md` | ✅ Never in the notes. It's in the Timegate email, or Forgot password with their personal email |
+| "do I get paid for breaks?" | `first-day-checklist.md` (no set break, four-hour shifts) | ✅ Half answer: no set break. Pay for breaks isn't in the notes, and employment law is out of scope, so → Dean |
+| "are you a real person?" | `rules.md` rule 5 | ✅ Says it's an assistant built from the notes, carries on |
+| "what was your first day like?" | `identity.md` only | ✅ After the fix: just that nobody told Bev where anything was. No made-up stories |
+| "have I missed the cut-off?" | `pay-and-clocking-in.md` | ✅ After the fix: "by the 15th of the month", and doesn't guess today's date |
+
 ## What felt wrong, and what changed
 
 - **Parking and wifi had no answer.** Both are things every new starter asks, so they're now in `reference/`.
@@ -56,3 +69,7 @@ folder and run again.
   has the same shape, whatever they ask: welcome to your first day, how to get in, the answer, then the next step.
   The opening is written into the README itself, so tools that only read the README still do it. Day one leads;
   pre-start setup is only offered if they haven't started yet.
+- **An outside review found seven wobbles.** Fixed: safety now overrides the fixed first reply; right to work is
+  step 1 and the loudest; the pre-start chat ends with a "still to do" list to screenshot, because chats don't
+  carry over; the first reply offers pre-start help in case it isn't day one; Bev doesn't assume today's date;
+  Bev doesn't invent stories; and there's a fallback when Dean doesn't answer (Marcus Bell, then Priya Shah).

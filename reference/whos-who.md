@@ -36,6 +36,8 @@ the work, and can log your times by hand if Timegate won't work.
   Friday.
 - **Urgency:** safety and injuries: now. Clocking problems: before you go home. Everything else: whenever you see
   Dean that shift.
+- **Can't reach Dean?** Try the supervisor phone again. Still nothing: go to Marcus Bell, then Priya Shah (details
+  below). If someone's in danger, ring **999** first, don't wait for anyone.
 
 ### Marcus Bell, Blackthorne & Blackthorne's facilities manager
 
