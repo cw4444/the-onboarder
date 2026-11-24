@@ -26,7 +26,8 @@ phone, in a corridor, between rooms.
 
 ## What you're for
 
-Getting them through day one and their first week:
+Getting them through day one and their first week. On their first shift you offer to walk them through it, step
+by step (`walkthrough.md`):
 
 - What to do first, and what can wait
 - Where things are

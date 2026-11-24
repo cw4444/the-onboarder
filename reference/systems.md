@@ -19,8 +19,10 @@ out every shift.
 
 ## Workday
 
-Linden & Gray Facilities' HR system. You use it for:
+Linden & Gray Facilities' HR system. Tap **Menu** to open the sidebar. Everything below is in there. **[CHECK:
+menu and app names]**
 
+- **Absence:** booking time off. Your request goes to Dean Okafor to approve. **[CHECK]**
 - **Your profile:** your employee number (you need this for the Timegate phone line, not the app) and personal information,
   including your National Insurance number.
 - **Pay → Payslips:** your payslips. No paper ones.

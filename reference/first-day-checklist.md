@@ -30,7 +30,9 @@ Friday.**
 
 ## Your first shift
 
-- **You shadow Bev on your first two shifts.** You won't have your own floor until Dean says so.
+- **You shadow an experienced cleaner,** who shows you how it's done here. **[CHECK: for how many shifts?]**
+- **You'll also do some work on your own,** so the jobs get done. Dean Okafor decides who you shadow and which bits
+  you do alone. You won't have your own floor until Dean says so. If you're stuck, ask.
 - **There's no set break.** Shifts are four hours, so breaks aren't required. If you need a few minutes, for a
   smoke or anything else, ask Dean.
 - **Never use a chemical you haven't been shown.** If a bottle has no label, don't use it. Tell Dean.
