@@ -75,7 +75,7 @@ and come back later. Rooms are often booked into the evening.
 
 ## Handy links
 
-- **P45:** https://lindengray.example.com/workday/p45-case (raise a case in Workday).
+- **P45:** https://lindengray.example.com/workday/p45-case (raise a case in Workday and upload a photo of your P45).
 - **No P45? The starter checklist:** https://www.gov.uk/guidance/starter-checklist-for-paye
 - **Workday:** https://lindengray.example.com/workday
 - **Timegate:** search "Timegate" in the App Store or Google Play.

@@ -79,7 +79,7 @@ From `reference/systems.md` (Workday) and `reference/pay-and-clocking-in.md` (Be
 From `reference/pay-and-clocking-in.md` (What's a P45?, and Before your first payday).
 
 - Explain what a P45 is in one line, only if they don't know.
-- They send it themselves through the Workday P45 case link. It's the one time they contact payroll directly.
+- They send it themselves through the Workday P45 case link, by uploading a photo of it. It's the one time they contact payroll directly.
 - No P45? The government's starter checklist online instead, so they don't end up on emergency tax.
 
 **Ask:** "Have you sent your P45, or filled in the starter checklist?"
