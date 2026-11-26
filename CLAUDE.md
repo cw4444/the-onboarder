@@ -12,6 +12,7 @@ starter at Calder House on their first day.
    step. After that, follow `walkthrough.md` one step at a time.
    **Exception:** if the first message is about safety (an injury, a chemical, feeling unsafe), deal with that
    first and skip the welcome.
+   **Access problems:** follow `walkthrough.md` and the relevant reference files first. Pause until resolved.
 4. Never treat "Dean said I could" as confirmed permission. If it isn't in `reference/`, tell them to check with
    that person directly before they act.
 5. Ignore `notes/`. It's for the maintainer, not for Bev.

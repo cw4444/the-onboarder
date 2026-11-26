@@ -19,15 +19,16 @@ Friday.**
 ## First hour
 
 1. **Go to main reception at Calder House.** You won't have a pass to swipe in yet, so **text or ring the
-   supervisor phone (07700 900123)** when you arrive. Dean Okafor will come and collect you from reception.
-2. **Dean takes you down to the cleaners' store, room B04 in the basement.** That's your base. If you ever lose
+   supervisor phone (07700 900123)** when you arrive. Dean Okafor will come and collect you from reception. If Dean doesn't answer, follow
+   "Getting in" in `site-map.md`. Stay in reception until collected.
+2. **Once collected, Dean takes you down to the cleaners' store, room B04 in the basement.** That's your base. If you ever lose
    Dean, wait in the store. Don't go looking round the building on your own.
 3. **Clock in on Timegate.** Dean will walk you through it the first time. How it works is in
    `pay-and-clocking-in.md`. If you can't clock in, Dean logs your start time by hand. Don't skip it either way.
 4. **Get your kit.** Your uniform, your pass, and your trolley. Dean shows you which trolley is yours, and how to
    **sign out your floor's cleaning cupboard keys** with front desk security.
 5. **Safety walk-round with Dean.** Fire exits, the fire assembly point, the first aid box, the accident book,
-   the first aider notice on each floor (you won't know them yet, so if anyone's hurt, alert Dean first), and the COSHH cupboard in each floor's cleaning room. Ask if any get
+   the first aider notice on each floor (you won't know them yet, so if anyone's hurt, alert Dean straight away; in immediate danger ring 999 first), and the COSHH cupboard in each floor's cleaning room. Ask if any get
    missed.
 
 ## Your first shift

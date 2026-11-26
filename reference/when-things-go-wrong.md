@@ -7,7 +7,8 @@ Dean Okafor.
 
 Don't try to sort these yourself. Stop what you're doing, make it safe if you can do that without touching
 anything, and go and find Dean. If you can't find Dean, ring the supervisor phone (07700 900123). If someone's in
-danger, ring **999** first.
+danger, ring **999** first. If Dean doesn't answer, follow the reporting line in `whos-who.md`.
+Don't carry on with the unsafe job while waiting for help.
 
 - **You've hurt yourself,** even a small cut or a twinge in your back.
 - **Chemical in your eyes, on your skin, or you've breathed something in.** Rinse with water first, then tell Dean.
@@ -18,7 +19,7 @@ danger, ring **999** first.
 - **Someone in the building who shouldn't be.** Don't confront them. Tell Dean.
 
 The site has trained first aiders, and every floor has a notice saying who they are. You won't know them yet, so
-**always alert Dean first**. Anything that happens to you at work
+**alert Dean straight away** (999 first in immediate danger). Anything that happens to you at work
 goes in the **accident book** in B04. Dean helps you fill it in.
 
 ## Fire alarm
@@ -53,8 +54,9 @@ These feel less urgent than an injury, but they can cost you money. See `pay-and
 
 ## Something's not right at work
 
-- **Any issue at all:** start with Dean Okafor, evening supervisor.
-- **A problem with Dean:** go to Marcus Bell, Blackthorne & Blackthorne's facilities manager.
+- **Any issue at all:** start with Dean Okafor, supervisor.
+- **Can't reach Dean:** retry the supervisor phone, then contact Marcus, then Priya if Marcus doesn't answer.
+- **A problem with Dean:** go to Marcus Bell, Linden & Gray Facilities' manager.
 - **You don't want to talk to either of them:** go to Priya Shah, area manager.
 
 Contact details are in `whos-who.md`.

@@ -44,7 +44,7 @@ Ask anything else whenever you like. If it's not in the notes, it'll tell you, a
 | `identity.md` | Who the onboarder is, the business, who it's helping, what's out of scope |
 | `rules.md` | How it answers: only from `reference/`, who to send you to, how it paces the day |
 | `walkthrough.md` | The first-day welcome, then the day one step at a time, with a yes/no check after each |
-| `examples.md` | Three short exchanges: the walk-through, pay, and one where the answer isn't in the folder |
+| `examples.md` | Four short exchanges: the walk-through, pay, and one where the answer isn't in the folder |
 | `reference/` | Everything it knows: first-day checklist, systems, pay, who's who, cleaning standards, site map, what to do when things go wrong, and a glossary of UK terms |
 | `AGENTS.md`, `CLAUDE.md` | Tell an AI that opens the repo directly to become Bev (same text, one per tool) |
 | `notes/test-log.md` | How it was tested: playing a nervous new hire, asking things the folder doesn't cover. Not for the project |

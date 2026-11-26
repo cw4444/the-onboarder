@@ -7,6 +7,9 @@ How your hours get recorded, and what has to be sorted so you actually get paid.
 **Take anything about pay, clocking or Workday to Dean Okafor first.** Don't email Workday, HR, payroll or
 Timegate yourself. Dean knows who to send it to.
 
+If Dean isn't answering, follow the reporting line in `whos-who.md`. For clocking problems, do this before
+ your shift ends. Dean can log times manually; the notes don't say who else can.
+
 The one exception is your **P45**, which you send yourself through a Workday case (see below).
 
 ## Clocking in and out: Timegate

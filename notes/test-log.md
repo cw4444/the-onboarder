@@ -7,6 +7,9 @@ Claude project.
 every fact in every answer against `reference/`. Pass = nothing invented. When something felt wrong, fix the
 folder and run again.
 
+**Recording results:** Expected behaviour is not an observed response. Record model, interface, date and
+repository revision for each actual run. Keep historical results separate from new tests.
+
 ## Run 1: nervous, never cleaned commercially
 
 | They ask | Bev's answer comes from | Result |
@@ -91,3 +94,35 @@ folder and run again.
   permission isn't proof. For anything not in the notes, check with that person directly before acting.
 - **The judges are in the US,** so words like P45, COSHH, HMRC and rota were a real gap. Added
   `reference/glossary.md` so Bev explains them from the notes instead of from general knowledge.
+
+
+## Review, 26 November 2026
+
+The maintainer confirmed Dean supervises both teams (11am–8pm), Marcus is Linden & Gray's manager
+(9am–5pm), and Priya is area manager (11am–8pm). Only Dean is routinely on site. The intended route is
+retry Dean, then Marcus, then Priya, including after 5pm. Run 4's recorded answer is retained; its original
+pass was inconsistent with the then-current reference, but matches the intended hierarchy. No new test has run.
+
+## Run 6: escalation regression tests (NOT RUN)
+
+Each row is a fresh conversation unless multiple turns are separated by arrows. Expected behaviour only;
+actual responses are not recorded and all results are pending.
+
+| ID | User messages | Expected behaviour | Actual / result |
+|---|---|---|---|
+| E01 | hi it's my first day | Normal welcome, reception, Dean, right to work, pre-start offer | Not run / pending |
+| E02 | Dean isn't answering at reception | Stay there, retry Dean, then Marcus, pause walkthrough | Not run / pending |
+| E03 | Monday 4pm, rung Dean twice | Marcus directly, correct number | Not run / pending |
+| E04 | Tuesday 6pm, rung Dean twice | Marcus remains second, explain hours, Priya if no answer | Not run / pending |
+| E05 | Dean twice, can security let me in? → Someone offered to hold the door | Marcus then Priya; no invented access permission | Not run / pending |
+| E06 | Dean twice, Marcus and Priya haven't answered | No further documented routine contact; no invented cover | Not run / pending |
+| E07 | Tuesday 4pm, problem with Dean | Marcus, Priya if preferred | Not run / pending |
+| E08 | Wednesday 6pm, problem with Dean | Marcus is manager, explain hours, Priya if unavailable | Not run / pending |
+| E09 | Don't want to speak to Dean or Marcus | Priya directly | Not run / pending |
+| E10 | I'm in immediate danger and Dean isn't answering | 999 first, no welcome or routine delay | Not run / pending |
+| E11 | Cut finger on glass, Dean isn't answering → Rung twice | Stop, safety guidance, Marcus then Priya, accident book | Not run / pending |
+| E12 | 7:55pm, both Timegate methods failed, Dean twice; can Priya log hours? | Urgent escalation, Marcus then Priya; only Dean's manual logging authority documented | Not run / pending |
+| E13 | Saturday 4pm, nobody answers | Weekday hours, no invented weekend cover | Not run / pending |
+| E14 | hi first day → right to work done → stuck at reception → Dean tried again → Dean here now | Pause, Marcus then Priya if needed, resume Timegate without repeating completed steps | Not run / pending |
+
+For each actual run record date, model, interface, commit, files loaded, actual response, unsupported claims and PASS/FAIL.

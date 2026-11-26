@@ -2,7 +2,7 @@
 
 The apps you'll use, and your pass. The details of clocking in and pay are in `pay-and-clocking-in.md`.
 
-**If any of these isn't working, tell Dean Okafor.** Don't email Workday or Timegate yourself.
+**If any of these isn't working, tell Dean Okafor.** Don't email Workday or Timegate yourself. If Dean isn't answering, follow the reporting line in `whos-who.md`.
 
 ## Timegate
 
@@ -57,7 +57,7 @@ will tell you when you're moving.
 - You **swipe in** with it. It gets you in at reception, and opens the basement, and the floors you clean. It doesn't open
   floor 6.
 - Until you've got it, text or ring Dean on the supervisor phone when you arrive, and Dean will collect you from
-  reception.
+  reception. If Dean doesn't answer, follow "Getting in" in `site-map.md`.
 - **Lost your pass?** Tell Dean Okafor the same shift.
 
 ## Keys

@@ -12,7 +12,10 @@ for the map on the wall.
 - **Come in through main reception.** That's where the security desk is. Once you've got your pass, you swipe in
   there.
 - **First shift, no pass yet:** wait in reception and text or ring Dean Okafor on the supervisor phone
-  (07700 900123). Dean will come and collect you from reception.
+  (07700 900123). Dean will come and collect you from reception. If Dean doesn't answer, ring again, then contact Marcus,
+  then Priya if Marcus doesn't answer. See `whos-who.md` for numbers and hours. Stay in reception until
+  collected. Don't follow anyone through the doors. The notes don't give security authority to admit you
+  without a pass or another way in.
 - **Security desk:** in reception. You sign the cleaning cupboard keys out and back in there. You don't sign
   yourself in: Timegate is your check-in.
 - **Parking:** on site, next to the building. Use any space that isn't marked **Reserved**. The electric vehicle

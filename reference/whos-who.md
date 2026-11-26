@@ -4,10 +4,16 @@ Who to go to, for what, and how fast. All names are fictional.
 
 ## The reporting line
 
-**Dean Okafor (evening supervisor) → Marcus Bell (Blackthorne & Blackthorne's facilities manager) → Priya Shah (area manager).**
+**Dean Okafor (supervisor) → Marcus Bell (manager) → Priya Shah (area manager).**
 
-Any issue goes to Dean Okafor first. If it's about Dean, go to Marcus Bell. If you don't want to talk to either
-of them, go to Priya Shah.
+Dean supervises both day and evening cleaning teams and is your first contact for questions and problems.
+If Dean doesn't answer, ring the supervisor phone again. Still no answer? Contact Marcus, then Priya if
+Marcus doesn't answer. Marcus remains the second contact even after 5pm; don't assume he'll answer outside
+his working hours.
+
+If the problem is with Dean, go to Marcus. If you'd rather not speak to either, go to Priya.
+All three work for Linden & Gray Facilities. Only Dean is routinely on site every working day.
+If someone's in immediate danger, ring **999** first.
 
 ## The quick version
 
@@ -19,34 +25,34 @@ of them, go to Priya Shah.
 | Pay, tax, bank details, payslips | Dean Okafor first | In person. Don't email payroll yourself |
 | Sending your P45 | Payroll, through Workday | The P45 link in `pay-and-clocking-in.md` |
 | Being off sick | Dean Okafor | Ring the supervisor phone. No texts |
-| A problem with Dean Okafor | Marcus Bell, Blackthorne & Blackthorne's facilities manager | Phone or email |
+| Dean isn't answering | Retry Dean, then Marcus, then Priya | Phone |
+| A problem with Dean Okafor | Marcus Bell, Linden & Gray Facilities' manager | Phone or email |
 | A problem you don't want to raise with Dean or Marcus | Priya Shah, area manager | Phone or email |
 | A client asking you to do something extra | Dean Okafor | Don't agree to extra jobs yourself |
 
 ## The people
 
-### Dean Okafor, evening supervisor
+### Dean Okafor, supervisor
 
-Your first stop for everything. Runs the evening team, decides who cleans which floor and which building, checks
+Your first stop for everything. Runs the day and evening teams, decides who cleans which floor and which building, checks
 the work, and can log your times by hand if Timegate won't work.
 
 - **Where:** the cleaners' store (B04, basement) at the start and end of the shift. During the shift Dean's
   walking the floors.
-- **How:** in person, or ring the supervisor phone on **07700 900123**. It's on from 3pm to 10pm, Monday to
+- **How:** in person, or ring the supervisor phone on **07700 900123**. Dean works from 11am to 8pm, Monday to
   Friday.
 - **Urgency:** safety and injuries: now. Clocking problems: before you go home. Everything else: whenever you see
   Dean that shift.
-- **Can't reach Dean?** Try the supervisor phone again. Still nothing: ring Priya Shah, area manager, on 0161 496 0457.
-  She's on until 8pm, so she covers the whole shift. Marcus Bell only works until 5. If someone's in danger, ring **999** first, don't wait for anyone.
+- **Can't reach Dean?** Ring the supervisor phone again. Still nothing? Contact Marcus Bell on
+  0161 496 0321, then Priya Shah on 0161 496 0457 if Marcus doesn't answer. If someone's in immediate danger,
+  ring 999 first.
 
-### Marcus Bell, Blackthorne & Blackthorne's facilities manager
+### Marcus Bell, manager
 
-Works for the client, Blackthorne & Blackthorne, not for Linden & Gray Facilities. He's the building's facilities manager, and he keeps an
-eye on the cleaning team to make sure the site standards are met. If anything's not right, he tells Dean Okafor,
-and Dean passes it on to the team. So if Dean gives you feedback on your floor, it may have come from Marcus.
+Works for Linden & Gray Facilities, manages Dean and the cleaning operation. Marcus isn't routinely on site.
 
 - **How:** phone 0161 496 0321 or email marcus.bell@example.co.uk, weekdays 9 to 5.
-- **Urgency:** go to Dean Okafor first, unless it's about Dean.
+- **Urgency:** go to Dean first, unless it's about Dean or Dean isn't answering.
 
 ### Priya Shah, area manager
 
@@ -55,7 +61,7 @@ Looks after several Linden & Gray Facilities sites, including this one. Hires ne
 - **Where:** not usually on site.
 - **How:** phone 0161 496 0457 or email priya.shah@example.co.uk, weekdays **11am to 8pm**, so she covers the
   whole evening shift.
-- **Urgency:** go to Dean Okafor or Marcus Bell first, unless you'd rather not talk to either of them.
+- **Urgency:** go to Dean, then Marcus, then Priya if they aren't answering, unless you'd rather not talk to either. No further routine contact is listed.
 
 ### Payroll
 
@@ -65,7 +71,7 @@ case link. Every other pay question goes to Dean Okafor, who takes it to payroll
 ### First aiders
 
 The site has trained first aiders, and **every floor has a notice saying who they are**. You won't know any of
-them yet, so **if someone's hurt or ill, alert Dean Okafor first**, every time. Dean knows who to get.
+them yet, so **if someone's hurt or ill, alert Dean Okafor straight away**. In immediate danger, ring 999 first. If Dean isn't answering, follow the reporting line. Dean knows who to get.
 
 - The first aid box and the accident book are in the cleaners' store (B04).
 - Anything that happens to you at work, however small, goes in the accident book. Ask Dean Okafor to help you

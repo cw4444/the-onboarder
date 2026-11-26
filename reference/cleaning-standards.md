@@ -59,6 +59,6 @@ it all. If you can see you won't finish, tell Dean before the end of the shift, 
 
 ## Who checks the standards
 
-Marcus Bell, Blackthorne & Blackthorne's facilities manager, keeps an eye on the cleaning. If something's been missed, he tells
+Marcus Bell, Linden & Gray Facilities' manager, keeps an eye on the cleaning. If something's been missed, he tells
 Dean Okafor, and Dean passes it on to you. Everyone gets feedback in their first few weeks. It's not a
 telling-off.
